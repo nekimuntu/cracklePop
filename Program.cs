@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
   
         static void CracklePop()
         {
-                for (int i = 1; i < 10; i++)
+                for (int i = 1; i < 100; i++)
                 {
                     //Check modulos of 3 and print Crackle
                     if (i % 3 == 0)
